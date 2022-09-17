@@ -1,0 +1,2 @@
+# industrial-hazard-detection-using-arduino
+                  This project is about designing a safety monitoring system based on wireless sensor network, which can improve the level of monitoring production , safety and reduce accident in industries. By using gas sensors and temperature sensors the leakage of toxic gases is monitored continuously. Once if the concentration reaches the threshold, the head of the industry receives the alert via message.
